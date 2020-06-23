@@ -1,3 +1,3 @@
 # covid
 Global Epidemiology
-The lin to the paper
+The link to the paper
